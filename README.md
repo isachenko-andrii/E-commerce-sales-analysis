@@ -99,6 +99,10 @@ The dataset used contains the following fields:
  * Mobile Traffic: A significant portion of orders are placed on mobile devices, indicating the need to optimize for a mobile-first experience.
  * Logistics: High levels of Cancelled and Returned statuses in certain regions require additional attention to service quality or product descriptions.
 
+## Visualizations  
+
+  
+
 ## How to use  
 
  * Clone the repository.
