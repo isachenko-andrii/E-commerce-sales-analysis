@@ -94,7 +94,7 @@ The dataset used contains the following fields:
  * **payment_method, delivery_status:** <code>Operational data.</code>
  * **country, device:** <code>Segmentation features.</code>
 
-## Key Insights (Based on Analysis)  
+## Key Insights  
  * **Category Popularity:** The Electronics and Home categories show the highest average order value.
  * **Mobile Traffic:** A significant portion of orders are placed on mobile devices, indicating the need to optimize for a mobile-first experience.
  * **Logistics:** High levels of Cancelled and Returned statuses in certain regions require additional attention to service quality or product descriptions.
