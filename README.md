@@ -86,18 +86,18 @@ A line graph that displays revenue fluctuations by date, allowing you to identif
 ## Data structure  
 
 The dataset used contains the following fields:  
- * order_id, user_id: Order and user identifiers.
- * order_date: Transaction date.
- * category: Product category.
- * price, quantity, discount: Price, quantity and discount percentage.
- * total: Total order amount.
- * payment_method, delivery_status: Operational data.
- * country, device: Segmentation features.
+ * **order_id, user_id:** <code>Order and user identifiers.</code>
+ * **order_date:** Transaction date.
+ * **category:** Product category.
+ * **price, quantity, discount:** Price, quantity and discount percentage.
+ * **total:** Total order amount.
+ * **payment_method, delivery_status:** Operational data.
+ * **country, device:** Segmentation features.
 
 ## Key Insights (Based on Analysis)  
- * Category Popularity: The Electronics and Home categories show the highest average order value.
- * Mobile Traffic: A significant portion of orders are placed on mobile devices, indicating the need to optimize for a mobile-first experience.
- * Logistics: High levels of Cancelled and Returned statuses in certain regions require additional attention to service quality or product descriptions.
+ * **Category Popularity:** The Electronics and Home categories show the highest average order value.
+ * **Mobile Traffic:** A significant portion of orders are placed on mobile devices, indicating the need to optimize for a mobile-first experience.
+ * **Logistics:** High levels of Cancelled and Returned statuses in certain regions require additional attention to service quality or product descriptions.
 
 ## Visualizations  
 
