@@ -60,39 +60,39 @@ The final stage is the interpretation of graphs:
  
 The dashboard is divided into logical blocks that allow you to evaluate your business from different perspectives:  
 
- 1. Key indicators (Scorecards):  
+**1. Key indicators (Scorecards): **  
  * **Total Revenue:** Total sales.
  * **Total Orders:** Number of transactions processed.
  * **Average Order Value (AOV):** Average check.  
   
- 2. Discount Impact: Analysis of the impact of discounts on the final amount. 
+**2. Discount Impact: Analysis of the impact of discounts on the final amount.**  
 
 Sales dynamics (Time Series):
 
 A line graph that displays revenue fluctuations by date, allowing you to identify seasonality and peak sales days.
 
- 3. Category and product analysis:
+**3. Category and product analysis:**  
  * Sales distribution by category (Electronics, Home, Toys, Books, Clothing).  
  * Top products by revenue and number of orders.  
 
- 4. Geography and customer behavior: 
-  
- * Device Usage: Analysis of devices from which purchases were made (Mobile, Desktop, Tablet).
- * Payment Methods: Breakdown by payment method (Credit Card, PayPal, COD).
+**4. Geography and customer behavior:**  
 
- 5. Operational metrics  
+ * **Device Usage:** Analysis of devices from which purchases were made (Mobile, Desktop, Tablet).  
+ * **Payment Methods:** Breakdown by payment method (Credit Card, PayPal, COD).  
+
+**5. Operational metrics**  
  * Delivery status (Delivered, Shipped, Pending, Returned, Cancelled), which is critical for logistics and churn analysis.
 
 ## Data structure  
-
+  
 The dataset used contains the following fields:  
  * **order_id, user_id:** <code>Order and user identifiers.</code>
- * **order_date:** Transaction date.
- * **category:** Product category.
- * **price, quantity, discount:** Price, quantity and discount percentage.
- * **total:** Total order amount.
- * **payment_method, delivery_status:** Operational data.
- * **country, device:** Segmentation features.
+ * **order_date:** <code>Transaction date.</code>
+ * **category:** <code>Product category.</code>
+ * **price, quantity, discount:** <code>Price, quantity and discount percentage.</code>
+ * **total:** <code>Total order amount.</code>
+ * **payment_method, delivery_status:** <code>Operational data.</code>
+ * **country, device:** <code>Segmentation features.</code>
 
 ## Key Insights (Based on Analysis)  
  * **Category Popularity:** The Electronics and Home categories show the highest average order value.
