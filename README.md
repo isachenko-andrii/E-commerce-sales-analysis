@@ -60,7 +60,7 @@ The final stage is the interpretation of graphs:
  
 The dashboard is divided into logical blocks that allow you to evaluate your business from different perspectives:  
 
-**1. Key indicators (Scorecards): **  
+**1. Key indicators (Scorecards):**  
  * **Total Revenue:** Total sales.
  * **Total Orders:** Number of transactions processed.
  * **Average Order Value (AOV):** Average check.  
