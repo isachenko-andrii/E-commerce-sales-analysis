@@ -105,7 +105,7 @@ The dataset used contains the following fields:
 
 ## How to use  
 
- * Review the ecommerce_dataset.csv file to understand the structure.
+ * Review the [ecommerce_dataset.csv](https://github.com/isachenko-andrii/E-commerce-Sales-Performance-Dashboard/blob/main/data/raw/ecommerce_dataset.csv) file to understand the structure.
  * Follow the link to Looker Studio to interact with filters (date, country, category).
 
 ## Contact  
