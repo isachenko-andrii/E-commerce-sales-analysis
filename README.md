@@ -23,24 +23,24 @@ The dashboard development process was divided into 5 key stages:
 **1. Defining business goals and KPIs** 
   
 At the first stage, the questions that the dashboard should answer were formulated:  
- * What is the revenue dynamics by month?
- * Which product categories bring the greatest profit?
- * How are orders distributed by geography and device types?
- * What percentage of orders are successfully delivered, and what percentage are returned or canceled?  
+ * **What is the revenue dynamics by month?**
+ * **Which product categories bring the greatest profit?**
+ * **How are orders distributed by geography and device types?**
+ * **What percentage of orders are successfully delivered, and what percentage are returned or canceled?**  
   
 **2. Data Preparation and Cleaning**  
   
 Before importing into Looker Studio, the data was checked for quality:  
- * Typification: Converting the order_date column to a date format for correct time series construction.
- * Validation: Checking the price, quantity, and discount columns for anomalous values.
- * Creating calculated fields: Calculating total values ​​(Total Revenue) taking into account discounts, if this was not provided in the raw data.
+ * **Typification:** Converting the order_date column to a date format for correct time series construction.
+ * **Validation:** Checking the price, quantity, and discount columns for anomalous values.
+ * **Creating calculated fields:** Calculating total values ​​(Total Revenue) taking into account discounts, if this was not provided in the raw data.
    
 **3. Designing the dashboard architecture**  
   
 I developed a logical structure of the page for user convenience (UI/UX analytics):  
- * Top level: Key figures (Scorecards) for a quick overview of the state of affairs.
- * Middle level: Trends (Time Series) and categorical breakdown (Pie/Bar Charts).
- * Bottom level: Drill-down by geography and operational status.  
+ * **Top level:** Key figures (Scorecards) for a quick overview of the state of affairs.
+ * **Middle level:** Trends (Time Series) and categorical breakdown (Pie/Bar Charts).
+ * **Bottom level:** Drill-down by geography and operational status.  
   
 **4. Visualization and development**  
   
@@ -61,9 +61,9 @@ The final stage is the interpretation of graphs:
 The dashboard is divided into logical blocks that allow you to evaluate your business from different perspectives:  
 
  1. Key indicators (Scorecards):  
- * Total Revenue: Total sales.
- * Total Orders: Number of transactions processed.
- * Average Order Value (AOV): Average check.  
+ * **Total Revenue:** Total sales.
+ * **Total Orders:** Number of transactions processed.
+ * **Average Order Value (AOV):** Average check.  
   
  2. Discount Impact: Analysis of the impact of discounts on the final amount. 
 
