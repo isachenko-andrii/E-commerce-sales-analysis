@@ -101,8 +101,9 @@ The dataset used contains the following fields:
 
 ## Visualizations  
 
- * ​**E-commerce performance and loyalty analytics**  
- ![Project-logo](https://github.com/isachenko-andrii/E-commerce-sales-analysis/blob/main/images/Slide-2.png)
+ * ​**E-commerce performance and loyalty analytics**
+   
+ ![Project-logo](https://github.com/isachenko-andrii/E-commerce-sales-analysis/blob/main/images/Slide-2.png)  
 
  * **Dynamics of orders for the reporting period**  
   
@@ -110,7 +111,7 @@ The dataset used contains the following fields:
 
  * **Order distribution charts**  
    
- ![Project-logo](https://github.com/isachenko-andrii/E-commerce-sales-analysis/blob/main/images/Slide-4.png)  
+ ![Project-logo](https://github.com/isachenko-andrii/E-commerce-sales-analysis/blob/main/images/Slide-4.png)    
    
 ## How to use  
 
