@@ -101,7 +101,9 @@ The dataset used contains the following fields:
 
 ## Visualizations  
 
-  
+ ![Project-logo](https://github.com/isachenko-andrii/E-commerce-sales-analysis/blob/main/images/Slide-2.png)
+ ![Project-logo](https://github.com/isachenko-andrii/E-commerce-sales-analysis/blob/main/images/Slide-3.png)
+ ![Project-logo](https://github.com/isachenko-andrii/E-commerce-sales-analysis/blob/main/images/Slide-4.png)
 
 ## How to use  
 
